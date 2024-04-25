@@ -1,0 +1,2 @@
+Hello world! Hello everyone.
+This is a sample text file. This file is used to demonstrate the word counting feature.
